@@ -1,0 +1,14 @@
+C:\Users\kazak\Desktop\Repos\github\kazaaak\IGME-206\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.csprojAssemblyReference.cache
+C:\Users\kazak\Desktop\Repos\github\kazaaak\IGME-206\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.csproj.CoreCompileInputs.cache
+C:\Users\kazak\Desktop\Repos\github\kazaaak\IGME-206\SquashTheBugs\SquashTheBugs\bin\Debug\SquashTheBugs.exe.config
+C:\Users\kazak\Desktop\Repos\github\kazaaak\IGME-206\SquashTheBugs\SquashTheBugs\bin\Debug\SquashTheBugs.exe
+C:\Users\kazak\Desktop\Repos\github\kazaaak\IGME-206\SquashTheBugs\SquashTheBugs\bin\Debug\SquashTheBugs.pdb
+C:\Users\kazak\Desktop\Repos\github\kazaaak\IGME-206\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.exe
+C:\Users\kazak\Desktop\Repos\github\kazaaak\IGME-206\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.pdb
+C:\Users\kazak\Desktop\Repos\github\kazaaak\myIGME-206\SquashTheBugs\SquashTheBugs\bin\Debug\SquashTheBugs.exe.config
+C:\Users\kazak\Desktop\Repos\github\kazaaak\myIGME-206\SquashTheBugs\SquashTheBugs\bin\Debug\SquashTheBugs.exe
+C:\Users\kazak\Desktop\Repos\github\kazaaak\myIGME-206\SquashTheBugs\SquashTheBugs\bin\Debug\SquashTheBugs.pdb
+C:\Users\kazak\Desktop\Repos\github\kazaaak\myIGME-206\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.csprojAssemblyReference.cache
+C:\Users\kazak\Desktop\Repos\github\kazaaak\myIGME-206\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.csproj.CoreCompileInputs.cache
+C:\Users\kazak\Desktop\Repos\github\kazaaak\myIGME-206\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.exe
+C:\Users\kazak\Desktop\Repos\github\kazaaak\myIGME-206\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.pdb
