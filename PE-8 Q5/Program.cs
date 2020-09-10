@@ -15,28 +15,30 @@ namespace PE_8_Q5
         // Restrictions: None
         static void Main(string[] args)
         {
-            double x = -1, y = 1, z = -1;
-            double[,,] mathArray = new double[0, 0, 0];
-            
-            // Loop through x from values -1 to 1 in 0.1 increments
-            while (x < 1)
+            double[,,] aZFunction = new double[21, 31, 3];
+            double dX = -1, dY = 1, dZ = -1;
+            int nX = 0, nY = 0;
+
+            for (dX = -1; dX <= 1; dX += 0.1)
             {
-                // Loop through x from values 1 to 4 in 0.1 increments
-                while (y < 4.1)
+                dX = Math.Round(dX, 1);
+                nY = 0;
+                for (dY = -1; dY <= 1; dY += 0.1)
                 {
-                    // Plug the numbers into the formula and print
-                    z = ((3 * y) * (3 * y)) + (2 * x) - 1;
-                    Console.WriteLine("x = " + x + ", y = " + y + ", z = " + z);
+                    dX = Math.Round(dY, 1);
 
-                    // Increment y
-                    y += 0.1;
+                    dZ = ((3 * dY) * (3 * dY)) + (2 * dX) - 1;
+
+                    dX = Math.Round(dZ, 1);
+
+                    aZFunction[nX, nY, 0] = dX;
+                    aZFunction[nX, nY, 1] = dY;
+                    aZFunction[nX, nY, 2] = dZ;
+
+                    ++nY;
                 }
-
-                // Increment x and reset y
-                x += 0.1;
-                y = 1;
+                ++nX;
             }
-
         }
     }
 }
