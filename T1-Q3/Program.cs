@@ -10,7 +10,10 @@ namespace T1_Q3
     {
         delegate string stringMethod(string input);
 
-        
+        // Class: IGME-206
+        // Author: Gage Hubler
+        // Purpose: Uses a delegate to impersonate the Console.ReadLine() function when asking for user input
+        // Restrictions: None
         static void Main(string[] args)
         {
             string input;
@@ -26,11 +29,3 @@ namespace T1_Q3
         }
     }
 }
-
-
-
-
-// Class: IGME-206
-// Author: Gage Hubler
-// Purpose: Uses a delegate to impersonate the Console.ReadLine() function when asking for user input
-// Restrictions: None
