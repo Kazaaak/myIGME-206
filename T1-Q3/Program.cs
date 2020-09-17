@@ -8,7 +8,7 @@ namespace T1_Q3
 {
     class Program
     {
-        delegate string stringMethod(string input);
+        delegate string stringMethod();
 
         // Class: IGME-206
         // Author: Gage Hubler
@@ -16,16 +16,14 @@ namespace T1_Q3
         // Restrictions: None
         static void Main(string[] args)
         {
-            string input;
             Console.Write("Please enter a string: ");
-            input = new stringMethod(ReadInput);
-            Console.WriteLine(input);
+            stringMethod input = new stringMethod(ReadInput);
+            Console.WriteLine(input());
         }
 
-        static string ReadInput(string input)
+        static string ReadInput()
         {
-            input = Console.ReadLine();
-            return input;
+            return Console.ReadLine();
         }
     }
 }
